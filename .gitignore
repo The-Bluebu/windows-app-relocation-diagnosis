@@ -1,0 +1,27 @@
+# Diagnostic transcripts produced by scripts/Diagnose-AppRelocation.ps1
+diagnosis*.txt
+*.diagnosis.txt
+report-*.txt
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS (contributors may be on other platforms)
+.DS_Store
+
+# Never commit real user data or captured logs
+*.log
+logs/
+sessions/
+private/
