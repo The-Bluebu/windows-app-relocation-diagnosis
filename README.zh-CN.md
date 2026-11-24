@@ -37,7 +37,7 @@ error [electron-message-handler] [Composer] submit failed
 ### Claude Code / 读取技能目录的 agent
 
 ```bash
-git clone https://github.com/B-TQ/windows-app-relocation-diagnosis.git \
+git clone https://github.com/The-Bluebu/windows-app-relocation-diagnosis.git \
   ~/.claude/skills/windows-app-relocation-diagnosis
 ```
 
@@ -140,3 +140,5 @@ reparse point 布局、以及发现该报错的日志路径，并去除个人标
 ## 许可
 
 MIT，见 [LICENSE](LICENSE)。
+
+由 [Bluebu](https://github.com/The-Bluebu) 维护。

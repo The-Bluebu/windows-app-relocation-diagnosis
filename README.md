@@ -44,7 +44,7 @@ Moving the package back cannot fix that. Removing the junction can.
 ### Claude Code / agents that read a skills directory
 
 ```bash
-git clone https://github.com/B-TQ/windows-app-relocation-diagnosis.git \
+git clone https://github.com/The-Bluebu/windows-app-relocation-diagnosis.git \
   ~/.claude/skills/windows-app-relocation-diagnosis
 ```
 
@@ -153,3 +153,5 @@ layout, and the log path where the error was found, with personal identifiers re
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+Maintained by [Bluebu](https://github.com/The-Bluebu).
